@@ -1,5 +1,4 @@
-{
-	"ICE":[
+[
     {
         "Material": "Aggregatesand",
         "SubMaterial":[
@@ -66,4 +65,4 @@
 	}
       
     ]}
-]}
+]
