@@ -23,6 +23,27 @@
 				"Version": "V3.0 Beta",
 				"DateLastUpdated": "May-19" 
 			 }]  
+        },		{
+            "Sub-Material": "General Aggregate And Sand2",
+			"ActualMaterial":[
+			{
+				"Name": "Aggregates And Sand, General Uk, Mixture Of Land Won, Marine, Secondary And Recycled, Bulk, Loose",
+				"Comments": "This Is An Estimate Of A Market Average Aggregate. It Models A Mixture Of 64.2% Land Won, 27.5% Recycled And Secondary, And 8.3% Marine Aggregates. Consumption Statistics Have Been Taken From A Report, By British Marine Aggregates Producer Association, A Member Of The  Mineral Products Association (Mpa). [Tenth Sustainable Development Report For The British Marine Aggregate Industry, Dec 2016]. These Results Are Sensitive To The Embodied Carbon Of Secondary Aggregates, Which Is A Material Where Data Would Benefit From Improvement. If You Know The Specific Type Of Aggregates You Will Use, Then It Is Recommended To Use A More Specific Category Of Aggregates.",
+				"Boundaries": "Cradle To Gate, A1-3",
+				"Density": "1600",
+				"EmbodiedCarbon": "0.0075",
+				"Version": "V3.0 Beta",
+				"DateLastUpdated": "May-19"
+			 },
+			 {
+				"Name": "Aggregates And Sand, General, Virgin Mixture Of Land Won And Marine, Bulk, Loose",
+				"Comments": "Excludes Recycled And Secondary Aggregate. This Has Been Modelled With 89% Land Won And 11% Marine Won Aggregate. Consumption Statistics Have Been Taken From A Report, By British Marine Aggregates Producer Association, A Member Of The  Mineral Products Association (Mpa). [Tenth Sustainable Development Report For The British Marine Aggregate Industry, Dec 2016].  The Consumption Of Marine Aggregate Was Taken To Be The Total Marine Aggregate Production. Of The Total, 68% Are Consumed In The Gb Market, 11% Are Sent To The European Market And 21% Used As Beach Replenishment Or Fill.",
+				"Boundaries": "Cradle To Gate, A1-3",
+				"Density": "1600",
+				"EmbodiedCarbon": "0.0049",
+				"Version": "V3.0 Beta",
+				"DateLastUpdated": "May-19" 
+			 }]  
         }]    
     },    
     {
