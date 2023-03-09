@@ -1,10 +1,10 @@
 [
     {
-        "Material": "Aggregatesand",
+        "MainMaterial": "Aggregatesand",
         "SubMaterial":[
 		{
-            "Sub-Material": "General Aggregate And Sand",
-			"ActualMaterial":[
+            "Name": "General Aggregate And Sand",
+			"Material":[
 			{
 				"Name": "Aggregates And Sand, General Uk, Mixture Of Land Won, Marine, Secondary And Recycled, Bulk, Loose",
 				"Comments": "This Is An Estimate Of A Market Average Aggregate. It Models A Mixture Of 64.2% Land Won, 27.5% Recycled And Secondary, And 8.3% Marine Aggregates. Consumption Statistics Have Been Taken From A Report, By British Marine Aggregates Producer Association, A Member Of The  Mineral Products Association (Mpa). [Tenth Sustainable Development Report For The British Marine Aggregate Industry, Dec 2016]. These Results Are Sensitive To The Embodied Carbon Of Secondary Aggregates, Which Is A Material Where Data Would Benefit From Improvement. If You Know The Specific Type Of Aggregates You Will Use, Then It Is Recommended To Use A More Specific Category Of Aggregates.",
@@ -25,8 +25,8 @@
 			 }]  
         },
 		{
-            "Sub-Material": "General Aggregate And Sand2",
-			"ActualMaterial":[
+            "Name": "General Aggregate And Sand2",
+			"Material":[
 			{
 				"Name": "Aggregates And Sand, General Uk, Mixture Of Land Won, Marine, Secondary And Recycled, Bulk, Loose",
 				"Comments": "This Is An Estimate Of A Market Average Aggregate. It Models A Mixture Of 64.2% Land Won, 27.5% Recycled And Secondary, And 8.3% Marine Aggregates. Consumption Statistics Have Been Taken From A Report, By British Marine Aggregates Producer Association, A Member Of The  Mineral Products Association (Mpa). [Tenth Sustainable Development Report For The British Marine Aggregate Industry, Dec 2016]. These Results Are Sensitive To The Embodied Carbon Of Secondary Aggregates, Which Is A Material Where Data Would Benefit From Improvement. If You Know The Specific Type Of Aggregates You Will Use, Then It Is Recommended To Use A More Specific Category Of Aggregates.",
@@ -48,11 +48,11 @@
         }]    
     },    
     {
-        "Material": "Aluminium",
+        "MainMaterial": "Aluminium",
 		    "SubMaterial":[
 		{
-			"Sub-Material": "General",
-			"ActualMaterial":[
+			"Name": "General",
+			"Material":[
 			{
 				"Name": "Aluminium General, European Mix, Inc Imports",
 				"Comments": "This Data Has Been Derived From The World Aluminium Lca'S. They Have Produced Lca Reports For Europe, North America And Worldwide Aluminium. Modelled At Worldwide Average Scrap Input Of 31%, To Avoid Market Distortions. Modelled With 25.6% Extrusions, 55.7% Rolled And 18.7% Castings. Based Upon European Production And The Import Of Aluminium Consumed In Europe. Module D = -3.13 Kg CO2e Per Unit. Eol Recovery Rate Of 95%, Based Upon Du Telft Study Of European Construction Sector. With A 2% Material Loss Yield On The Scrap Recovered.",
@@ -73,8 +73,8 @@
 			}]
 		},
 		{
-		 "Sub-Material": "Sheet",
-		 "ActualMaterial":[
+		 "Name": "Sheet",
+		 "Material":[
 		 {
 			"Name": "Aluminium Sheet, European Mix, Inc Imports",
 			"Comments": "This Data Has Been Derived From The World Aluminium Lca'S. They Have Produced Lca Reports For Europe, North America And Worldwide Aluminium. Modelled At Worldwide Average Scrap Input Of 31%, To Avoid Market Distortions. Based Upon European Production And The Import Of Aluminium Consumed In Europe. Module D = -3.09 Kg CO2e Per Unit. Eol Recovery Rate Of 95%, Based Upon Du Telft Study Of European Construction Sector. With A 2% Material Loss Yield On The Scrap Recovered.",
