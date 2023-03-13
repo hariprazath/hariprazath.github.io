@@ -551,7 +551,20 @@
               "DateLastUpdated": "May-19"
             }
           ]
-        },{}
+        }, {
+          "Name": "Straight-Run",
+          "Material": [
+            {
+              "Name": "Straight-Run Bitumen",
+              "Comments": "Source: Eurobitume, 2012. Life Cycle Inventory, Bitumen, 2Nd Edition, Published By The European Bitumen Association. The Value Covers The Embodied Carbon  Excluding Embodied Carbon From Infrastructure (I.E. Carbon To Make Machines That Make Machines, Or Embodied Carbon Of Buildings). Gwp Factors From Ippc Ar5 Applied, Wihtout Carbon Feedback.",
+              "Boundaries": "Cradle To Gate, A1-3",
+              "Density": "1050",
+              "EmbodiedCarbon": "0.1909",
+              "Version": "V3.0 Beta",
+              "DateLastUpdated": "May-19"
+            }
+          ]
+        },
       ]
     },
     {
